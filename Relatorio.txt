@@ -1,0 +1,5 @@
+Dificuldades:
+- dataset demora muito para carregar
+- o tipo de representacao dos valores importa, pelo fato de ser muitas colunas
+- determinar os parametros ideais e fazer o ajuste fino é demorado, pois cada inicializacao demora
+-
